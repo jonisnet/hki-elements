@@ -1,5 +1,5 @@
 [![Release](https://img.shields.io/github/v/release/jimz011/hki-elements.svg)](https://github.com/jimz011/hki-elements/releases)
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/jimz011/hki-elements/total.svg)](https://github.com/jimz011/hki-elements/releases)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/jimz011/hki-elements/graphs/commit-activity)
